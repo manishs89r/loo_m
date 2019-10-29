@@ -2,6 +2,6 @@
 using namesapce std;
 
 int main() {
-cout << "hello world";
+cout << "Hello world!";
 return 0;
 }
